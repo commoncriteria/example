@@ -3,37 +3,37 @@
 * Edit the README contents below, replacing QQQQ with the name of your requirements document, and replacing all occurrences of "pp-template" with the name of your new repo.
 * And then delete this part, leaving everything below here.
 
-== Protection Profile for QQQQ
+== Protection Profile for Examples
 
 [cols="1,1,1,1,1,1,1,1"]
 |===
 8+|pp-template
-| https://github.com/commoncriteria/pp-template/tree/master[master] 
-a| https://commoncriteria.github.io/pp-template/master/pp-template-release.html[📄]
-a|[link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/ValidationReport.txt]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/validation.svg[Validation]
-a|[link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/SanityChecksOutput.md]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/warnings.svg[SanityChecks]
-a|[link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/SpellCheckReport.txt]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/spell-badge.svg[SpellCheck]
-a|[link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/TDValidationReport.txt]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/tds.svg[TDs]
-a|image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/transforms.svg[transforms,150]
-a| [link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/HTMLs.adoc]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/html_count.svg[HTML Count]
-[link=https://github.com/commoncriteria/pp-template/blob/gh-pages/master/PDFs.adoc]
-image::https://raw.githubusercontent.com/commoncriteria/pp-template/gh-pages/master/pdf_count.svg[PDF Count]
+| https://github.com/commoncriteria/example/tree/master[master] 
+a| https://commoncriteria.github.io/example/master/pp-template-release.html[📄]
+a|[link=https://github.com/commoncriteria/example/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/example/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/example/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/example/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/example/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/example/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/example/gh-pages/master/pdf_count.svg[PDF Count]
 |===
 
 === Draft Version (latest build of master branch)
-* https://commoncriteria.github.io/pp-template/master/pp-template-release-linkable.html[Protection
-Profile for QQQQ] (html)
-* https://commoncriteria.github.io/pp-template/master/pp-template-release-linkable.pdf[Protection
-Profile for QQQQ] (pdf)
+* https://commoncriteria.github.io/example/master/example-release-linkable.html[Protection
+Profile for Examples] (html)
+* https://commoncriteria.github.io/example/master/example-release-linkable.pdf[Protection
+Profile for Examples] (pdf)
 
 === Release Version
 
-* link:QQQQ[Protection Profile for QQQQ]
+* link:QQQQ[Protection Profile for Examples]
 
 === Contributing
 
